@@ -5,7 +5,7 @@ import AutocompleteTextbox from './autocompleteTextbox';
 const App = () => {
   return (
     <>
-    <img src="uni_logo_eng.png" alt="Description of the image" />
+    <img src="" alt="" />
     <div className="container">
       <div className="prompt">
         <h2>Question:</h2>
